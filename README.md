@@ -1,12 +1,15 @@
 # UFOs
 
-## Overview of Project: 
+# Overview of Project: 
 
 The purpose of this analysis is to provide Dana's webpage with an updated html website that contains more in depth UFO analysis allowing users to filter for multiple criteria.    In the results section I will be able to walk through the process in using the new search criteria. 
 
-## Results: 
+# Results: 
 
-The updated html added table filters for the date, city, state, country and shape.   Adding this allows anyone that enters the site to be able to search these criterias.    Images below is a close up of all fields that can be entered to search:
+The updated html added table filters for the date, city, state, country and shape.   Adding this allows anyone that enters the site to be able to search these criterias.    
+
+## HTML Pages and Search Results
+Images below is a close up of all fields that can be entered to search:
 
 ![image](https://user-images.githubusercontent.com/85530690/131269093-38f87196-961a-44e3-852d-84dc591b49be.png)
 
