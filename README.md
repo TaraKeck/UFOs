@@ -21,9 +21,14 @@ To get to the images above, the person entering the site would scroll down from 
 
 ![image](https://user-images.githubusercontent.com/85530690/131269136-a305e95a-91d9-43cc-8f3f-f0d849a757a2.png)
 
-## Summary: 
+# Summary: 
 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Drawbacks
+Overall this first round of updates gives a clean overall look and appearance to a site that will be user-friendly.  The one drawback of this site is that there are limitations to the search criteria if the person searching doesn't have the specific date, city, state, country and shape.  Just like in many other search criteria's someone may have keywords or phrases.
+
+## Additional Recommendations
+- One recommondation to improve the site would be for the funtionallity and UX, creating drop down lists for the current values. 
+
 
 
 
