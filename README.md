@@ -28,7 +28,7 @@ Overall this first round of updates gives a clean overall look and appearance to
 
 ## Additional Recommendations
 - One recommondation to improve the site would be for the funtionallity and UX, creating drop down lists for the current values. 
-
+- Second recommendation to improve the site would be to have information or contact information at the bottom (footer) of the site. Since there may be dates/areas that have information that may have not been documented it would be a way to have users interact and contact with this information.  It could also act as intake box for suggestion for the site, general inquiries and engaging.  
 
 
 
